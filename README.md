@@ -1,3 +1,3 @@
 # Pathwise
 
-Pathwise is a career readiness web application that helps students compare their current skills against role-specific expectations, calculate a readiness score, identify skill gaps, and get a practical learning roadmap. The project includes Google and email authentication, guest access, saved progress with Supabase, role-based analysis, portfolio project suggestions, and a structured action plan. It is built with HTML, CSS, JavaScript, Supabase, and Vercel.
+Pathwise is a career readiness platform that helps students understand how close they are to qualifying for specific technology roles. By analyzing their current skills against industry expectations, it provides a readiness score, identifies skill gaps, highlights strengths, and offers a category-wise performance breakdown. Built using Vercel, Supabase, and AI-powered technologies
